@@ -10,8 +10,6 @@ from scrape import scrape
 
 Program scrapes cbs sport bet tips for mlb and saves them to excel
 
-# TODO: koodin selkeytys 
-
 '''
 
 def main():
